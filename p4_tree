@@ -1,0 +1,36 @@
+* 4120657 (HEAD -> main) Answers from part 3
+* 8704c3d Answers from part 2
+* 79290bb Remote exercise
+* d3ef3c4 Add source.cpp, edit information.txt README.md
+* f1768d2 Add source.py and reset.sh
+| * 3a161a8 (cpp) Add source.cpp
+|/  
+| * b783f54 (python) Add calculation to source.py
+| * 1ef5fe9 Add source.py
+|/  
+* 27b7341 Initial commit
+* 47be2ec (origin/main, origin/HEAD) Rebase exercise
+* 81a4d78 Local commit
+* c514428 Friend commit
+* 2c1cdaf Gitignore exercise part 4
+* 01cd560 Gitignore exercise part 3
+* e9f69b7 Gitignore exercise part 2
+* 4a628d7 Gitignore exercise part 1
+* ac18c92 Remote exercise
+* 5301da4 Rewrite README.md; add LICENSE
+*   32c66c1 Merge branch 'cpp' into main
+|\  
+| * 1f54cdc (origin/cpp) Add source.cpp
+* | 0e38163 Touch up information.txt
+* |   717811d Merge branch 'python' into main
+|\ \  
+| |/  
+|/|   
+| * 245eaa2 (origin/python) Add calculation to source.py
+| * 82e68c4 Fix typo in source.py
+| * 849cf4f Add source.py
+* | 3f3213f Add reset.sh
+|/  
+* 90ee3a5 Add gitignore
+* 6267065 Add miscellaneous files
+* 5d7f497 Initial commit
